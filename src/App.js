@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
       <Clock />
+      <h1>Wake-Up Alarm</h1>
+      <MotorControl />
     </div>
   );
 }
