@@ -1,0 +1,17 @@
+{
+  "name": "alarm-clock",
+  "version": "1.0.0",
+  "description": "A simple alarm clock program that plays a sound when the alarm goes off.",
+  "main": "src/alarm.ts",
+  "scripts": {
+    "start": "ts-node src/alarm.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.0.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
